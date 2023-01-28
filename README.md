@@ -25,7 +25,7 @@ Contents:
 - Ricerca Operativa
 - Statistica Applicata e Analisi dei Dati
 
-Andrea - Università degli Studi di Udine - Magistrale in Big-Data-Analytics
+Andrea Mansi - Università degli Studi di Udine - Magistrale in Big-Data-Analytics
 
 NB: Qualora nelle dispense fossero presenti contenuti da non condividere o non fossero citate eventuali fonti (slides, dispense dei prof, etc.) provvederò a rimuovere tali file.
 
