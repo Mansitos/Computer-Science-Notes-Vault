@@ -27,6 +27,6 @@ Contents:
 
 Andrea Mansi - Università degli Studi di Udine - Magistrale in Big-Data-Analytics
 
-NB: Qualora nelle dispense fossero presenti contenuti da non condividere o non fossero citate eventuali fonti (slides, dispense dei prof, etc.) provvederò a rimuovere tali file.
+NB: Qualora nelle dispense fossero presenti contenuti da non condividere o non fossero citate eventuali fonti (slides, dispense dei prof, etc.) provvederò a modificare o rimuovere tali file.
 
 NB: Sei uno studente particolarmente attento nel produrre appunti? vuoi contribuire? contattami!
