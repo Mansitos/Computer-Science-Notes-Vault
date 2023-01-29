@@ -12,18 +12,18 @@ In this repository you can find some of the best notes in the field of computer 
 ---
 
 Contents:
-- Advanced Data Science
-- Deep Learning
-- Information Retrieval
-- Ingegneria del Software
-- Intelligenza Artificiale
-- Linguaggi e Compilatori - vademecum parte pratica
-- Progettazione e Analisi Object Oriented
-- Programmazione su Architetture Parallele
-- Reti di Calcolatori
-- Sistemi Operativi
-- Ricerca Operativa
-- Statistica Applicata e Analisi dei Dati
+- Advanced Data Science <sub><sup>[rmd]</sup></sub>
+- Deep Learning <sub><sup>[LaTeX]</sup></sub>
+- Information Retrieval <sub><sup>[LaTeX]</sup></sub>
+- Ingegneria del Software <sub><sup>[Word]</sup></sub>
+- Intelligenza Artificiale <sub><sup>[LaTeX]</sup></sub>
+- Linguaggi e Compilatori - vademecum parte pratica <sub><sup>[Word]</sup></sub>
+- Progettazione e Analisi Object Oriented <sub><sup>[LaTeX]</sup></sub>
+- Programmazione su Architetture Parallele <sub><sup>[LaTeX]</sup></sub>
+- Reti di Calcolatori <sub><sup>[Word]</sup></sub>
+- Sistemi Operativi <sub><sup>[Word]</sup></sub>
+- Ricerca Operativa <sub><sup>[LaTeX]</sup></sub>
+- Statistica Applicata e Analisi dei Dati <sub><sup>[LaTeX]</sup></sub>
 
 Andrea Mansi - Università degli Studi di Udine - Magistrale in Big-Data-Analytics
 
