@@ -1,5 +1,5 @@
 # Computer Science Notes Vault
-In questa repository puoi trovare alcuni dei migliori appunti che ho prodotto durante i 5 anni di università in ambito informatico. Molti di essi sono scritti in LaTeX.  Credo che la conoscenza vada condivisa, se posso aiutare qualcuno ben venga, ma ricorda, ragiona su quel che leggi, fa che sia farina del tuo sacco. Se leggerai queste righe probabilmente sei un futuro studente dell'università degli studi di Udine; fanne buon uso! Ti auguro il meglio.
+In questa repository puoi trovare alcuni dei migliori appunti che ho prodotto durante i 5 anni di università in ambito informatico. Molti di essi sono scritti in LaTeX.  Credo che la conoscenza vada condivisa, se posso aiutare qualcuno ben venga, ma ricorda, ragiona su quel che leggi, fa che diventi farina del tuo sacco. Se leggerai queste righe probabilmente sei un futuro studente dell'Università degli Studi di Udine; fanne buon uso! Ti auguro il meglio.
 
 
 In this repository you can find some of the best notes in the field of computer science I have produced during my five years at university. Many of them are written in LaTeX. I believe that knowledge should be shared, I'm happy if I can help you, but remember, make it your own, think and reason about what you read. If you read these lines, you probably are a future student at the University of Udine; make good use of them! I wish you all the best.
@@ -11,7 +11,7 @@ In this repository you can find some of the best notes in the field of computer 
 
 ---
 
-Contents:
+### Contents:
 - Advanced Data Science <sub><sup>[rmd]</sup></sub>
 - Deep Learning <sub><sup>[LaTeX]</sup></sub>
 - Information Retrieval <sub><sup>[LaTeX]</sup></sub>
@@ -27,6 +27,6 @@ Contents:
 
 Andrea Mansi - Università degli Studi di Udine - Magistrale in Big-Data-Analytics
 
-NB: Qualora nelle dispense fossero presenti contenuti da non condividere o non fossero citate eventuali fonti (slides, dispense dei prof, etc.) provvederò a modificare o rimuovere tali file.
+**NB:** Qualora nelle dispense fossero presenti contenuti da non condividere o non fossero citate eventuali fonti (slides, dispense dei prof, etc.) provvederò a modificare o rimuovere tali file.
 
-NB: Sei uno studente particolarmente attento nel produrre appunti? vuoi contribuire? contattami!
+**NB:** Sei uno studente particolarmente attento nel produrre appunti? vuoi contribuire? contattami!
